@@ -1,0 +1,8 @@
+{
+    "restaurant": [
+      { "id": 1, "name": "pizza-hut", "address": "noida", "rating": "4", "email": "pizzahut@test.com" },
+      { "id": 2, "name": "tea-hut", "address": "delhi", "rating": "5", "email": "teahut@test.com" },
+      { "id": 3, "name": "w b-hut", "address": "faridabad", "rating": "3", "email": "wbhut@test.com" },
+      { "id": 4, "name": "jezz-hut", "address": "gurugram", "rating": "4", "email": "jezzhut@test.com" }
+    ]
+  }

@@ -6,7 +6,19 @@
   height: 40vmin;
   pointer-events: none;
 }
+span{
+    margin: 5px;
+    display: inline-block;
+    background-color: antiquewhite;
+    padding: 10px;
+}
 
+.list-wrapper{
+  border: 1px solid #ccc;
+  margin: auto;
+  width: 500px;
+  margin-top: 10px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
